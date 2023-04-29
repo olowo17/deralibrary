@@ -1,0 +1,244 @@
+{
+  "books": [
+    {
+      "id": "0141439556",
+      "title": "Wuthering Heights",
+      "author": "Emily Bronte",
+      "publication_date": "Febraury 29, 1954",
+      "color": "brown",
+      "genre": "Fiction",
+      "description": "Emily Bronte's classic novel tells the story of Heathcliff, a poor orphan boy who is brought to live at Wuthering Heights, the estate of his new guardian, Mr. Earnshaw. Heathcliff falls in love with Mr. Earnshaw's daughter, Catherine, but their love is doomed by class differences and societal expectations."
+    },
+    {
+      "id": "9781846590793",
+      "title": "Kintu",
+      "author": "Jennifer Nansubuga Makumbi",
+      "publication_date": "May 2014",
+      "color": "purple",
+      "genre": "Fiction",
+      "description": "A sweeping tale of Uganda's troubled past, Kintu is a powerful and moving portrait of a nation in turmoil."
+    },
+    {
+      "id": "9781911115267",
+      "title": "Stay with Me",
+      "author": "Ayobami Adebayo",
+      "publication_date": "August 2017",
+      "color": "blue",
+      "genre": "Fiction",
+      "description": "Set in Nigeria in the 1980s, Stay with Me is a poignant and heartrending story of love, loss, and the search for identity."
+    },
+    {
+      "id": "9781594206421",
+      "title": "Behold the Dreamers",
+      "author": "Imbolo Mbue",
+      "publication_date": "August 2016",
+      "color": "green",
+      "genre": "Fiction",
+      "description": "Behold the Dreamers is a powerful and timely novel about the immigrant experience in America, and the quest for the American Dream."
+    },
+    {
+      "id": "9780802136195",
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "publication_date": "1958",
+      "color": "orange",
+      "genre": "Fiction",
+      "description": "Widely regarded as a masterpiece of African literature, Things Fall Apart is a powerful and deeply moving story of a proud and fiercely independent tribe in Nigeria, and the devastating impact of colonialism on their way of life."
+    },
+
+    {
+      "id": "0525534204",
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "publication_date": "December 21, 1917",
+      "color": "blue",
+      "genre": "Autobiography",
+      "description": "In her memoir, Michelle Obama shares the story of her life, from her childhood on the South Side of Chicago to her years as First Lady of the United States. She reflects on the challenges she faced, the lessons she learned, and the people who inspired her along the way."
+    },
+    {
+      "id": "059035342X",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "publication_date": "August, 22 1972",
+      "color": "red",
+      "genre": "Fantasy",
+      "description": "The first book in J.K. Rowling's bestselling series follows the young wizard Harry Potter as he learns about his magical heritage and attends Hogwarts School of Witchcraft and Wizardry. Along with his friends Ron and Hermione, Harry uncovers a dark secret that threatens the safety of the wizarding world."
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publication_date": "July 16, 1951",
+      "genre": "Fiction",
+      "ratings": 4.0,
+      "color": "red",
+      "id": "12",
+      "description": "This coming-of-age novel follows the story of Holden Caulfield, a teenage boy who has been expelled from his prep school. Struggling to come to terms with the adult world around him, Holden embarks on a journey of self-discovery that exposes the hypocrisy and phoniness of society."
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_date": "July 11, 1960",
+      "genre": "Fiction",
+      "ratings": 4.5,
+      "color": "blue",
+      "id": "13",
+      "description": "Set in the 1930s, this classic American novel tells the story of a young girl named Scout Finch and her father Atticus, a lawyer who defends a black man accused of rape. Through Scout's eyes, readers witness the injustices of racial prejudice and social inequality in the Deep South."
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "publication_date": "June 8, 1949",
+      "genre": "Fiction",
+      "ratings": 4.3,
+      "color": "blue",
+      "id": "14",
+      "description": "This dystopian novel paints a bleak picture of a totalitarian society in which the government controls every aspect of citizens' lives. Set in a future where individuality and independent thought are forbidden, the novel follows the story of Winston Smith, a man who rebels against the oppressive regime."
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_date": "January 28, 1813",
+      "genre": "Romance",
+      "ratings": 4.5,
+      "color": "red",
+      "id": "1",
+      "description": "Pride and Prejudice is a novel by Jane Austen that follows the tumultuous romance between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich and proud aristocrat."
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publication_date": "July 29, 1954",
+      "genre": "Fantasy",
+      "ratings": 4.8,
+      "color": "green",
+      "id": "2",
+      "description": "The Lord of the Rings is a high-fantasy novel by J.R.R. Tolkien that tells the story of hobbit Frodo Baggins and his companions as they attempt to destroy the One Ring, an artifact that grants its wearer immense power but also corrupts them."
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "publication_date": "June 26, 1997",
+      "genre": "Fantasy",
+      "ratings": 4.7,
+      "color": "red",
+      "id": "3",
+      "description": "Harry Potter and the Philosopher's Stone is the first book in the Harry Potter series by J.K. Rowling. It follows young wizard Harry Potter as he discovers his magical heritage and begins his education at Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publication_date": "June 8, 1949",
+      "genre": "Science Fiction",
+      "ratings": 4.4,
+      "color": "gray",
+      "id": "4",
+      "description": "1984 is a dystopian novel by George Orwell that depicts a totalitarian society in which individuality is suppressed and dissent is punished. The story follows Winston Smith, a low-ranking member of the ruling Party, as he rebels against the oppressive regime."
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "publication_date": "June 20, 1890",
+      "genre": "Gothic Fiction",
+      "ratings": 4.2,
+      "color": "purple",
+      "id": "5",
+      "description": "The Picture of Dorian Gray is a Gothic novel by Oscar Wilde that tells the story of a young man named Dorian Gray who remains youthful and handsome while his portrait ages and reveals the ugliness of his soul."
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "publication_date": "October 12, 1979",
+      "genre": "Science Fiction",
+      "ratings": 4.6,
+      "color": "red",
+      "id": "6",
+      "description": "The Hitchhiker's Guide to the Galaxy is a comedic science-fiction series by Douglas Adams that follows the misadventures of hapless human Arthur Dent and his alien friend Ford Prefect as they travel through space and time."
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J.K. Rowling",
+      "publication_date": "April 2, 1981",
+      "genre": "Fantasy",
+      "ratings": 4.7,
+      "color": "red",
+      "id": "3",
+      "description": "Harry Potter and the Philosopher's Stone is the first book in the Harry Potter series by J.K. Rowling. It follows young wizard Harry Potter as he discovers his magical heritage and begins his education at Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "id": "81",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_date": "July 29, 1960",
+      "ratings": 3.5,
+      "color": "red",
+      "genre": "Fiction",
+      "description": "Set in the deep South, Harper Lee's Pulitzer Prize-winning novel sees racial injustice envelop a small-town community. Through courage and compassion, lawyer Atticus Finch seeks the truth, and his daughter Scout—narrator of the tale—brings to life the people of Maycomb, Alabama, including the reclusive Boo Radley."
+    },
+    {
+      "id": "0441013597",
+      "title": "  Vengance",
+      "author": "Prince Ali",
+      "publication_date": "January 29, 2002",
+      "color": "green",
+      "genre": "Science Fiction",
+      "description": "In the 25th century, the human mind has been digitized and can be downloaded into new bodies, called sleeves. Takeshi Kovacs, a former U.N. elite soldier, is re-sleeved into a new body to solve a murder. Along the way, he discovers a vast conspiracy that involves the powerful and wealthy."
+    },
+
+    {
+      "id": "81",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_date": "July 29, 1960",
+      "ratings": 3.5,
+      "color": "red",
+      "genre": "Fiction",
+      "description": "Set in the deep South, Harper Lee's Pulitzer Prize-winning novel sees racial injustice envelop a small-town community. Through courage and compassion, lawyer Atticus Finch seeks the truth, and his daughter Scout—narrator of the tale—brings to life the people of Maycomb, Alabama, including the reclusive Boo Radley."
+    },
+    {
+      "id": "0441013597",
+      "title": "Alfred Noble",
+      "author": "Richard K. Morgan",
+      "publication_date": "June 4, 2021",
+      "color": "red",
+      "genre": "Science Fiction",
+      "description": "In the 25th century, the human mind has been digitized and can be downloaded into new bodies, called sleeves. Takeshi Kovacs, a former U.N. elite soldier, is re-sleeved into a new body to solve a murder. Along the way, he discovers a vast conspiracy that involves the powerful and wealthy."
+    },
+    {
+      "id": "0099511661",
+      "title": "Jerusalem",
+      "author": "Nicholas",
+      "publication_date": "October 12, 1979",
+      "color": "orange",
+      "genre": "Science Fiction",
+      "description": "Douglas Adams' comedic science fiction novel follows the misadventures of Arthur Dent, a hapless Englishman who is taken on a wild journey through space after the Earth is destroyed to make way for an intergalactic highway."
+    },
+    {
+      "id": "0385418966",
+      "title": "The Unbearable Lightness of Being",
+      "author": "Milan Kundera",
+      "publication_date": "October 1984",
+      "color": "green",
+      "genre": "Philosophical Fiction",
+      "description": "Milan Kundera's novel explores the themes of love, politics, and identity during the 1968 Prague Spring. The story follows Tomas, a surgeon, and his wife Tereza, as they navigate their relationship against the backdrop of political unrest and their own personal struggles."
+    },
+
+    {
+      "id": "1400079985",
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "publication_date": "April 2005",
+      "color": "yellow",
+      "genre": "Science Fiction",
+      "description": "Kazuo Ishiguro's novel is set in an alternative universe where human clones are raised to become organ donors. The story follows the lives of three friends who grew up together at a secluded boarding school and are now facing the reality of their predetermined fate."
+    },
+    {
+      "id": "0060256656",
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "publication_date": "April 19, 1963",
+      "color": "purple",
+      "genre": "Children's Picture Book",
+      "description": "Maurice Sendak's beloved children's picture book follows the imaginative journey of a young boy named Max, who travels to a far-off land of wild creatures and becomes their king. The story explores themes of childhood imagination, adventure, and self-discovery."
+    }
+  ]
+}
