@@ -38,8 +38,8 @@ const BookTable = () => {
         />
       </div>
 
-      <div className="table w-full">
-        <table className="w-full px-6 mx-auto">
+      <div className="">
+        <table className="w-full px-6 mx-auto table-fixed ">
           <thead className="bg-teal-800 text-white">
             <tr className="text-2xl py-2 ">
               <th>Title</th>
@@ -55,10 +55,10 @@ const BookTable = () => {
                 className="odd:bg-slate-200 even:bg-slate-100 p-2 text-xl text-center pl-4 cursor-pointer"
                 onClick={() => onClickHandle(book.id)}
               >
-                <td>{book.title}</td>
-                <td>{book.author}</td>
-                <td>{book.publication_date}</td>
-                <td>{book.genre}</td>
+                <td >{book.title}</td>
+                <td >{book.author}</td>
+                <td >{book.publication_date}</td>
+                <td >{book.genre}</td>
               </tr>
             ))}
           </tbody>
